@@ -1,4 +1,4 @@
-# Reddit Hyperlinks Analysis
+# Graph Analysis of Social Media Links
 
 This repository contains the code and analysis for exploring the soc-RedditHyperlinks dataset. The analysis focuses on Link Analysis, PageRank, and Hubs and Authority algorithms.
 
@@ -43,6 +43,6 @@ The correlation between the Authority score and Hub score is 0.5551260436796563.
 
 ## Code
 
-The code for this analysis can be found in the respective directories. The code is implemented using Python and relies on libraries such as pandas and matplotlib for data processing and visualization.
+The code for this analysis can be found in the IR_A3.ipynb file. The code is implemented using Python and relies on libraries such as pandas and matplotlib for data processing and visualization, and networkx for graph network processing and visualisation.
 
-Please refer to the individual code files for a detailed understanding of the implementations.
+Please refer to the code file for a detailed understanding of the implementations.
